@@ -1,0 +1,14 @@
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vscode/
+.idea/
+
+# Other files
+*.db
+*.cache
+*.log
